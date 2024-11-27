@@ -12,7 +12,7 @@ This IO box was developed to be a tool for someone who works with different mach
 - Fabrication outputs:
     - Gerbers (made for JLCPCB)
     - Digikey Cart containing parts for about 5 boards.
-- COMING SOON: 3D printable enclosure model
+- 3D printable enclosure.
 
 ## Features
 - 24 VDC input
