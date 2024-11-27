@@ -3,9 +3,10 @@
 
 This IO box was developed to be a tool for someone who works with different machine vision devices such as cameras, 3D scanners and other sensors.
 
-![alt text](img/3d_view.JPG "3D View")
-![alt text](img/pcb.PNG "PCB")
-![alt text](img/schematic.PNG "Schematic")
+![3D View](img/3d_view.JPG "3D View")
+![PCB](img/pcb.PNG "PCB")
+![Schematic](img/schematic.PNG "Schematic")
+![Enclosure](img/enclosure.jpg) "Enclosure")
 
 ## Contents
 - KiCad project including all footprints and 3D models.
