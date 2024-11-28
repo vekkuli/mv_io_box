@@ -6,7 +6,7 @@ This IO box was developed to be a tool for someone who works with different mach
 ![3D View](img/3d_view.JPG "3D View")
 ![PCB](img/pcb.PNG "PCB")
 ![Schematic](img/schematic.PNG "Schematic")
-![Enclosure](img/enclosure.jpg) "Enclosure")
+![Enclosure](img/enclosure.jpg "Enclosure")
 
 ## Contents
 - KiCad project including all footprints and 3D models.
