@@ -3,14 +3,19 @@
 
 This IO box was developed to be a tool for someone who works with different machine vision devices such as cameras, 3D scanners and other sensors.
 
+*Note that the images below may not be fully up to date with the code!*
+
 ![3D View](img/3d_view.JPG "3D View")
+
 ![PCB](img/pcb.PNG "PCB")
+
 ![Schematic](img/schematic.PNG "Schematic")
-![Enclosure](img/enclosure.jpg "Enclosure")
+
+![Enclosure](img/enclosure_f360.jpg "Enclosure")![Enclosure](img/enclosure.jpg "Enclosure")
 
 ## Contents
 - KiCad project including all footprints and 3D models.
-- Fabrication outputs:
+- Fabrication outputs, generated using the [Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) plugin.
     - Gerbers (made for JLCPCB)
     - Digikey Cart containing parts for about 5 boards.
 - 3D printable enclosure.
